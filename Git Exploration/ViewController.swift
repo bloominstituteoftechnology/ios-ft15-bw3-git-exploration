@@ -17,9 +17,9 @@ class ViewController: UIViewController {
         
         /*
          
-         Name:
-         Favorite food:
-         Favorite color:
+         Name: Irtimid
+         Favorite food: Pizza
+         Favorite color: Blue
          
          */
         
