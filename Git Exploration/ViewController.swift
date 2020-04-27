@@ -17,9 +17,9 @@ class ViewController: UIViewController {
         
         /*
          
-         Name: Irtimid Loinuob
-         Favorite food: Tacos
-         Favorite color: Red
+         Name: Dimitri Bouniol
+         Favorite food: Pizza
+         Favorite color: Orange
          
          */
         
